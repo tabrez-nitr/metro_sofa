@@ -44,8 +44,8 @@ function CompareImage() {
       />
         <Compare
         // **FIX: Pass the entire image object, not just .src**
-        firstImage={afterRepair2.src}
-        secondImage={beforRepair2.src}
+        firstImage={after2.src}
+        secondImage={before2.src}
         initialSliderPercentage={40}
         className=" w-full h-[20.5rem] object-cover md:w-[35rem] md:h-[30rem] rounded-lg shadow-2xl"
         slideMode="hover"

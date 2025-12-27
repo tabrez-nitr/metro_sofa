@@ -1,12 +1,12 @@
 import React from 'react'
 import {ImageCarousel} from "./ui/ImageCarousel";
-import leatherfabric from '@/assets/GalleryLeatherFabric.jpg'
+import leatherfabric from '@/assets/leatherFabric.jpg'
 import colorfulfabric from '@/assets/colorfulfabrics.jpg'
 import primumfabric from "@/assets/preimumfabrics.jpg"
-import woodensofa from '@/assets/woodensofa.jpg'
-import reclinersofa from '@/assets/ReclinerSofa.jpg'
+import woodensofa from '@/assets/sofaPolish4.jpg'
+import reclinersofa from '@/assets/reclinerSofa2.jpg'
 import sofacumbed from '@/assets/sofacumbed.jpg'
-import minimalistsofa from '@/assets/MinimalistSofa.jpg'
+import minimalistsofa from '@/assets/minimalistSofa2.jpg'
 import Lshapedsofa from '@/assets/Lshapedsofa.jpg'
 
 
@@ -41,8 +41,8 @@ function Gallery() {
       {
       id: 5,
       imageUrl: sofacumbed.src,
-      alt: "Sofa Cumbed",
-      title: "Sofa Cumbed",
+      alt: "Sofa Cum bed",
+      title: "Sofa Cum bed",
     },
     {
       id: 6, 
